@@ -1,16 +1,15 @@
-## Hi there 👋
+## Bem Vindo ao perfil do Palik ☣️
 
-<!--
-**PalikUBM/PalikUBM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Juan Cavalcante
 
-Here are some ideas to get you started:
+- Estou fazendo um trabalho de escola, ignore
+- Tamo junto professor Guilherme, é nois
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Contato ⬇️
+albertofibeira@gmail.com
+
+@pkzn.sep
+
+2C
+
+![](https://media1.tenor.com/m/CgGUXc-LDc4AAAAC/hacker-pc.gif)
